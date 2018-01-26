@@ -1,7 +1,7 @@
 /**
  * Assignment React Native
  * FPT Polytechnic
- * https://github.com/datdevs
+ * https://github.com/datdevs/React-native-coffee-go-app
  */
 
 import React, { Component } from 'react';
